@@ -3,7 +3,7 @@ import { DocsThemeConfig } from 'nextra-theme-docs'
 
 
 const config: DocsThemeConfig = {
-  logo: <span>Spectrum Docs</span>,
+  logo: <><img src="https://serv.hnz.li/spectrum/logo/default.png" width={30}></img><span  style={{marginLeft: ".4em"}}> Spectrum Docs</span></>,
   project: {
     link: 'https://github.com/spectrumPro/docs',
   },
