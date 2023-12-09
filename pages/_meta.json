@@ -3,5 +3,6 @@
   "about": {
     "title": "About",
     "type": "page"
-  }
+  },
+  "docs":"Docs"
 }
